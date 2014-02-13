@@ -1,0 +1,21 @@
+/*
+ * Theme Name: Canergie
+ * Theme URI: Theme URI
+ * Description: Theme Description
+ * Author: Olivier Ducroux
+ * Author URI: Author URI
+ * Version: 1.0
+ * Tags: responsive, white, bootstrap
+ *
+ * License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+ * License URI: http://creativecommons.org/licenses/by-sa/3.0/
+ *
+ * This simple theme was built using Bootstrap 
+ * */
+
+
+/* @import url('assets/css/bootstrap.css'); */
+
+@import url('assets/css/canergie.css');
+
+
